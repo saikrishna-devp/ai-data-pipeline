@@ -26,12 +26,12 @@ class Settings(BaseSettings):
     wikipedia_topics: list = [
         "Apache Kafka",
         "Apache Spark",
-        "Data Engineering",
-        "Machine Learning",
-        "Vector Database",
-        "Large Language Models",
+        "Machine learning",
+        "Large language model",
         "Apache Iceberg",
-        "Data Lakehouse"
+        "Retrieval-augmented generation",
+        "Vector space model",
+        "Data lake",
     ]
     arxiv_max_results: int = 5
 
