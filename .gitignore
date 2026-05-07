@@ -1,0 +1,17 @@
+# Environment
+.env
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.venv/
+
+# Data
+*.pdf
+chroma_data/
+*.log
+
+# IDE
+.vscode/
+.idea/
