@@ -35,6 +35,17 @@ FastAPI (REST API)
 
 Plotly Dash (Chat Dashboard)
 
+## Dashboard Screenshot
+
+![AI Pipeline Dashboard](screenshots/dashboard.png)
+
+### Features
+- 💬 Chat interface to ask questions
+- 🤖 AI answers powered by Llama 3.2 3B (local, free)
+- 📚 Sources shown with relevance percentage
+- 🔄 One-click data ingestion (Wikipedia + ArXiv)
+- 📊 Vector DB stats (chunks stored)
+
 \
 ## Tech Stack
 
